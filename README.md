@@ -3,9 +3,9 @@ Simulating Blockchain with mining and peer verification
 
 ## Authors :  
 
-Isha Indhu S
-[Jayashree O](https://github.com/jayashree138)  
-[Rama Sailaja](https://github.com/rsp-009)
+Isha Indhu S <br />
+[Jayashree O](https://github.com/jayashree138)  <br />
+[Rama Sailaja](https://github.com/rsp-009) <br />
 [Rohith Ramakrishnan](https://github.com/Rohith-2)
 
 ## Blocks
