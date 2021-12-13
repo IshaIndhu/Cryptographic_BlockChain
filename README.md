@@ -2,10 +2,10 @@
 Simulating Blockchain with mining and peer verification
 
 ## Authors :  
-Rohith Ramakrishnan  
-[Isha Indhu S](https://github.com/ishaindhu)  
+Isha Indhu S
 [Jayashree O](https://github.com/jayashree138)  
 [Rama Sailaja](https://github.com/rsp-009)
+[Rohith Ramakrishnan](https://github.com/Rohith-2)
 
 ## Blocks
 We will define a class MinimalBlock that contains the following data members: 
